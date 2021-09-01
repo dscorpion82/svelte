@@ -151,6 +151,8 @@
 		border-right: 1px solid var(--second);
 		background-color: var(--second);
 		color: var(--sidebar-text);
+		direction: rtl;
+		font-family: tahoma;
 	}
 
 	.chapter-markup {
